@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     Copyright © 2022-present
-    <a href="https://github.com/liuxingyu521" target="_blank">Xuer</a>.
+    <a href="https://github.com/luomor-web" target="_blank">Xuer</a>.
   </div>
 </template>
 

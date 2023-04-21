@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://github.com/liuxingyu521/website-nav"
+    href="https://github.com/luomor-web/website-nav"
     class="github-corner"
     target="_blank"
     aria-label="View source on GitHub"

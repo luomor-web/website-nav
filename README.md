@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://liuxingyu521.github.io/website-nav" target="_blank">
+  <a href="https://luomor-web.github.io/website-nav" target="_blank">
     <img src="./public/logo.png" alt="website-nave-logo">
   </a>
 </p>
 
-![Build and Deploy](https://github.com/liuxingyu521/website-nav/actions/workflows/deploy.yml/badge.svg)
+![Build and Deploy](https://github.com/luomor-web/website-nav/actions/workflows/deploy.yml/badge.svg)
 
 # Website nav
 
 用来记录日常工作中用到的网站，方便随时随地查阅。
 
-**网站持续收录ing...** (欢迎在 [这里](https://github.com/liuxingyu521/website-nav/issues/new?assignees=&labels=new-link&template=new-link.yml&title=%E3%80%90%E6%96%B0%E5%A2%9E%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99%E3%80%91) 推荐分享其他实用网站)
+**网站持续收录ing...** (欢迎在 [这里](https://github.com/luomor-web/website-nav/issues/new?assignees=&labels=new-link&template=new-link.yml&title=%E3%80%90%E6%96%B0%E5%A2%9E%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99%E3%80%91) 推荐分享其他实用网站)
 
 ## 特点
 
@@ -28,7 +28,7 @@
 
 ```shell
 # 1. 克隆项目代码
-$ git clone git@github.com:liuxingyu521/website-nav.git
+$ git clone git@github.com:luomor-web/website-nav.git
 
 # 2. 安装依赖
 $ pnpm install
